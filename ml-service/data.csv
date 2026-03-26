@@ -1,0 +1,6 @@
+temperature,wind_speed,humidity,energy_output
+30,10,60,200
+32,12,55,220
+28,8,70,180
+35,15,50,260
+25,5,80,150
